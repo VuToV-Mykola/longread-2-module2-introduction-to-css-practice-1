@@ -7,4 +7,7 @@
 [![📦 Size](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/longread-2-module2-introduction-to-css-practice-1/main/assets/db/repo-size.json)](https://github.com/VuToV-Mykola/longread-2-module2-introduction-to-css-practice-1)
 [![🔤 Language](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/longread-2-module2-introduction-to-css-practice-1/main/assets/db/repo-language.json)](https://github.com/VuToV-Mykola/longread-2-module2-introduction-to-css-practice-1)
 [![📄 License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/longread-2-module2-introduction-to-css-practice-1/main/assets/db/repo-license.json)](https://github.com/VuToV-Mykola/longread-2-module2-introduction-to-css-practice-1/blob/main/LICENSE)
+
+## 📸 Latest Screenshot
+![Project Screenshot](assets/screenshot.png)
 <!-- END:AUTOGEN -->
